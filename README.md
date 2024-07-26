@@ -1,4 +1,4 @@
-# GestureChain.github.io
+# speechchain.github.io
 
 ## Hi there 👋
 
